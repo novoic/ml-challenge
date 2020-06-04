@@ -1,4 +1,4 @@
-<a href="https://novoic.com"><img src="https://novoic.com/wp-content/uploads/2019/10/logo_320px.png" alt="Novoic logo" width="160"/></a>
+<a href="https://novoic.com"><img src="https://assets.novoic.com/logo_320px.png" alt="Novoic logo" width="160"/></a>
 
 # Novoic ML challenge
 The Novoic ML challenge for audio, text or image data.
